@@ -1,5 +1,6 @@
-# esx_truck
+# esx_jb_advanced_truck_inventory 
 
-Open/Close vehicle inventory.
-Put/Get items.
-+Gestion du poid
+Ressource originale par @TanguyOrtegat
+
+Coffre avec gestion de poids.
+**BUG Corrigé : Duplication des items lors d'un dépôt dans le coffre.**
